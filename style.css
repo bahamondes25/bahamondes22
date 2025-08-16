@@ -1,6 +1,10 @@
 body {
 
-      background-image: url("foto/espacio.jpg");
+    background-image: url("fotografias/fondo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    
+
+    color: aliceblue;
+   
 }
